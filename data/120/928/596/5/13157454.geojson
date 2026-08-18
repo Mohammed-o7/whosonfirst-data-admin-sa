@@ -1,0 +1,53 @@
+{
+  "type": "Feature",
+  "id": 13157454,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [42.85520, 17.51330]
+  },
+  "bbox": [42.84500, 17.50500, 42.86500, 17.52500],
+  "properties": {
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "42.84500,17.50500,42.86500,17.52500",
+    "geom:latitude": 17.51330,
+    "geom:longitude": 42.85520,
+    "iso:country": "SA",
+    "lbl:max_zoom": 18,
+    "lbl:min_zoom": 6,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 6,
+    "mz:max_zoom": 18,
+    "name:ara_x_preferred": ["الجوين"],
+    "name:eng_x_preferred": ["Al Juwain"],
+    "src:geom": "geonames",
+    "wof:belongsto":,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 13157454,
+      "wd:id": "Q20394549"
+    },
+    "wof:country": "SA",
+    "wof:geomhash": "bc4e06f42ed1065748ecb9f76c5fd0e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632253,
+        "region_id": 85676853,
+        "county_id": 12430377,
+        "locality_id": 13157454
+      }
+    ],
+    "wof:id": 13157454,
+    "wof:name": "Al Juwain",
+    "wof:parent_id": 12430377,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-sa",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  }
+}
